@@ -5,8 +5,6 @@ This project predicts student marks based on the number of hours studied using L
 
 ## Technologies Used
 - Python
-- Pandas
-- Matplotlib
 - Scikit-learn
 - Jupyter Notebook
 
